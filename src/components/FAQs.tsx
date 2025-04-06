@@ -2,26 +2,31 @@ import { AnimatePresence, motion } from "motion/react";
 import { useState } from "react";
 import { twMerge } from "tailwind-merge";
 
-const faqs = [
+type FAQ = {
+  question: string;
+  answer: string;
+};
+
+const faqs: FAQ[] = [
   {
-    question: "How long does it take to build a website?",
+    question: "What's your typical website development timeline?",
     answer:
-      "It depends on the complexity of the website and the scope of the project.",
+      "Timeline varies based on project scope and complexity. A basic website might take 2-4 weeks, while complex platforms could take 2-3 months.",
   },
   {
-    question: "What is your development process like?",
+    question: "Can you describe your workflow process?",
     answer:
-      "I follow a hands-on approach starting with project planning, building out the core features, and regular check-ins to make sure everything matches your needs.",
+      "My process involves initial consultation, detailed planning, iterative development with regular feedback loops, thorough testing, and post-launch support.",
   },
   {
-    question: "Do you work with international clients?",
+    question: "Do you collaborate with clients worldwide?",
     answer:
-      "Yes, I work with clients globally and can accommodate different time zones for meetings and communication.",
+      "Absolutely! I maintain flexible scheduling to work effectively with clients across different time zones and provide responsive communication.",
   },
   {
-    question: "What industries do you specialize in?",
+    question: "What's your industry expertise?",
     answer:
-      "I have experience across various industries including technology, retail, hospitality, and professional services, bringing fresh perspectives to each project.",
+      "I've successfully delivered projects in SaaS, education, and beauty industries.",
   },
 ];
 
