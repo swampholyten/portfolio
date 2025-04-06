@@ -30,7 +30,7 @@ export const Footer = () => {
   };
 
   return (
-    <footer className="bg-foreground/10" id="contact">
+    <footer className="border-t" id="contact">
       <div className="box">
         <div className="section">
           <div className="flex items-center gap-3">
@@ -102,7 +102,7 @@ export const Footer = () => {
           </div>
         </div>
 
-        <p className="text-white/50 text-sm border-t py-4 md:py-6 lg:py-10">
+        <p className="text-foreground/70 text-sm border-t py-4 md:py-6 lg:py-10">
           Copyright &copy; Junkai Ji &bull; All rights reserved
         </p>
       </div>
