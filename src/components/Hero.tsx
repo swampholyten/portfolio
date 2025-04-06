@@ -111,8 +111,6 @@ export const Hero = () => {
             <img
               src="/selfie.png"
               alt="My portrait"
-              width={2000}
-              height={2000}
               className="size-full object-cover"
             />
           </motion.div>

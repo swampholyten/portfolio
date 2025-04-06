@@ -161,8 +161,6 @@ export const Header = () => {
                   <img
                     src={"/icon.svg"}
                     alt="Logo"
-                    width={400}
-                    height={400}
                     className="object-center size-full rounded-md"
                   />
                 </div>

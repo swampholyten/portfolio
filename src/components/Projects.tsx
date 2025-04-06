@@ -44,8 +44,6 @@ export const Projects = () => {
                   <img
                     src={image}
                     alt={`${name} image`}
-                    width={1000}
-                    height={1000}
                     className="size-full object-cover"
                   />
                 </div>
@@ -58,8 +56,6 @@ export const Projects = () => {
                       <img
                         src={image}
                         alt={`${name} image`}
-                        width={1000}
-                        height={1000}
                         className="size-full object-cover"
                       />
                     </div>
