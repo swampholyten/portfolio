@@ -4,7 +4,7 @@ export const navLinks = [
     href: "#intro",
   },
   {
-    label: "Selected Works",
+    label: "Projects",
     href: "#projects",
   },
   {

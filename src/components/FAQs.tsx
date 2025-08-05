@@ -9,25 +9,21 @@ type FAQ = {
 
 const faqs: FAQ[] = [
   {
-    question: "What's your typical website development timeline?",
-    answer:
-      "Timeline varies based on project scope and complexity. A basic website might take 2-4 weeks, while complex platforms could take 2-3 months.",
+    question: "What programming languages do you use?",
+    answer: "Rust, TypeScript, C, and Python."
   },
   {
-    question: "Can you describe your workflow process?",
-    answer:
-      "My process involves initial consultation, detailed planning, iterative development with regular feedback loops, thorough testing, and post-launch support.",
+    question: "What technologies and frameworks do you work with?",
+    answer: "Axum, Next.js, React, Nest.js."
   },
   {
-    question: "Do you collaborate with clients worldwide?",
-    answer:
-      "Absolutely! I maintain flexible scheduling to work effectively with clients across different time zones and provide responsive communication.",
+    question: "What's your background?",
+    answer: "Master's student in High Performance Computing at Politecnico di Milano."
   },
   {
-    question: "What's your industry expertise?",
-    answer:
-      "I've successfully delivered projects in SaaS, education, and beauty industries.",
-  },
+    question: "What are your interests?",
+    answer: "Web development, High-performance computing, and low-level programming."
+  }
 ];
 
 export const FAQs = () => {

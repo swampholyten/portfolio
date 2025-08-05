@@ -5,24 +5,14 @@ const projects = [
     url: "https://patenteplus.com",
   },
   {
-    name: "Neon Sushi",
-    image: "/projects/neon-sushi.jpeg",
-    url: "https://neon-sushi.vercel.app",
-  },
-  {
     name: "Studio Olistico Nuvola",
     image: "/projects/olistico-nuvola.jpeg",
     url: "https://olisticonuvola.com",
   },
   {
-    name: "My Blog",
-    image: "/projects/junkai-blog.jpeg",
-    url: "https://junkai.org",
-  },
-  {
-    name: "3D Website",
-    image: "/projects/detroil.jpeg",
-    url: "https://become-human.vercel.app",
+    name: "Neon Sushi",
+    image: "/projects/neon-sushi.jpeg",
+    url: "https://neon-sushi.vercel.app",
   },
 ];
 

@@ -26,8 +26,7 @@ export const Intro = () => {
           className="font-light text-4xl md:text-7xl lg:text-8xl lg:w-[80%] leading-20 md:leading-30"
           ref={scope}
         >
-          I grow businesses online with beautifully designed websites and clean,
-          efficient code using React, Next.js, and NestJS.
+          I'm Junkai, a programmer with a primary focus on TypeScript and Rust.
         </h2>
       </div>
     </section>

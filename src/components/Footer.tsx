@@ -33,17 +33,13 @@ export const Footer = () => {
     <footer className="border-t" id="contact">
       <div className="box">
         <div className="section">
-          <div className="flex items-center gap-3">
-            <div className="size-3 rounded-full bg-green-600 animate-pulse"></div>
-            <div className="uppercase">One stop available for next month</div>
-          </div>
           <div className="grid md:grid-cols-3 md:items-center">
             <div className="md:col-span-2">
               <h2
                 className="text-4xl mt-8 md:text-7xl lg:text-8xl font-extralight"
                 ref={scope}
               >
-                Enough talk. Let&apos;s make something great together.
+                Contact
               </h2>
               <a href={"mailto:ji.junkai@outlook.com"}>
                 <Button
