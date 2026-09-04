@@ -3,7 +3,7 @@
 A single static page. No build step, no dependencies.
 
 - `index.html` — the whole site, with its CSS inlined in a `<style>` block.
-- `icon.svg`, `og-image.png`, `resume.pdf`, `robots.txt`, `sitemap.xml` — served from the root.
+- `icon.svg`, `og-image.png`, `robots.txt`, `sitemap.xml`, `llms.txt` — served from the root.
 
 ## Local preview
 

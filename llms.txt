@@ -1,0 +1,21 @@
+# Junkai Ji
+
+> Software engineer working mainly in Rust, C++, and TypeScript, on full-stack web applications and high-performance parallel computing. Personal site at https://junkai.org/.
+
+Currently an MSc student in High Performance Computing Engineering at Politecnico di Milano, with a BSc in Computer Science and Engineering from Università di Bologna. Previously a web backend developer at Cosmobile in Bologna; joining Accenture in Milan as a supply chain backend engineer.
+
+## Pages
+
+- [Home](https://junkai.org/): experience, education, projects, and skills, on a single page.
+
+## Projects
+
+- [Patente Plus](https://patenteplus.com/): full-stack SaaS for Italian driving licence prep, with Stripe payments, SSO auth, and an LLM API that explains wrong quiz answers. TypeScript and Next.js.
+- [Hybrid Matrix-Free Solver](https://github.com/swampholyten/hybrid-matrix-free-solver): hybrid MPI matrix-free finite element solver with geometric multigrid preconditioning. C++17 and deal.II.
+- [Prequal-rs](https://github.com/swampholyten/prequal-rs): reproduction of Google's PreQual load-balancing policy (NSDI 2024). Rust, Tokio, and Axum.
+- [Studio Olistico Nuvola](https://olisticonuvola.com/): site for a holistic wellness studio in Milan. React.
+
+## Contact
+
+- [GitHub](https://github.com/swampholyten)
+- Email: ji.junkai@outlook.com
