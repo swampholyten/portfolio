@@ -13,6 +13,6 @@ Open `index.html` in a browser, or serve the directory:
 python3 -m http.server 8000
 ```
 
-## Deploy (Cloudflare Pages)
+## Deploy
 
 Build command: *(none)* — Build output directory: `/`
